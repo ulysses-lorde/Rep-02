@@ -1,0 +1,19 @@
+body {
+    background: black;
+}
+header {
+    color: azure;
+    text-align: center;
+    padding: 5px;
+
+}
+section {
+    background: blueviolet;
+    color: white;
+    border-radius: 40px;
+    text-align: center;
+    padding: 5px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px black;
+}
