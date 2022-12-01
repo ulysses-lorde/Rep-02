@@ -1,0 +1,8 @@
+body {
+    background: black;
+}
+section {
+    background: blueviolet;
+    color: white;
+    box-shadow: 3px 3px 10px black;
+}
